@@ -1,5 +1,5 @@
 # British-Airways-Reviews
-You can open this project on my Tableau Public: https://public.tableau.com/shared/XMG44BGMK?:display_count=n&:origin=viz_share_link
+You can open the dashboard on my Tableau Public: https://public.tableau.com/shared/XMG44BGMK?:display_count=n&:origin=viz_share_link
 
 This Tableau dashboard provides an analysis of British Airways customer reviews between March 2016 and October 2023. Key metrics such as overall rating, cabin staff service, value for money, seat comfort, ground service, food and beverages, and entertainment are presented in the "Average Metrics Values" section. The dashboard allows for filtering by metric, date, continent, traveler type, and seat type.
 
